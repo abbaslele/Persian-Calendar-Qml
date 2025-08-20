@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Icon/Left_Icon_F_E.svg</file>
+        <file>Resources/Icon/Right_Icon_F_E.svg</file>
+    </qresource>
+</RCC>

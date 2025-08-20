@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PersianCalender.qml</file>
+        <file>Icon.qml</file>
+        <file>IconButton.qml</file>
+        <file>CustomButton.qml</file>
+        <file>ApplicationTheme.qml</file>
+        <file>date-conversion.js</file>
+    </qresource>
+</RCC>
